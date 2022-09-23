@@ -1,0 +1,9 @@
+[INFO ] 2022-09-23 20:58:11.372 [main]  - Adding Employee : true
+[INFO ] 2022-09-23 20:58:22.764 [main]  - PersonalDetails [firstName=srivani, lastName=duggani, address=Vijayawada, email=srivani@gmail.com, phoneNumber=91263912, dateOfBirth=2000-11-10, weddingDate=2020-10-19]
+[INFO ] 2022-09-23 20:58:57.277 [main]  - FirstName:srivani PhoneNumber:91263912
+[INFO ] 2022-09-23 20:58:57.277 [main]  - FirstName:meena PhoneNumber:9876543211
+[ERROR] 2022-09-23 20:59:28.822 [main]  - Updated one Employee : false
+[ERROR] 2022-09-23 21:02:50.656 [main]  - Updated one Employee : false
+[INFO ] 2022-09-23 21:03:37.666 [main]  - Updated one Employee : true
+[ERROR] 2022-09-23 21:03:51.252 [main]  - Deleted one Employee : false
+[INFO ] 2022-09-23 21:04:45.427 [main]  - Deleted one Employee : true
